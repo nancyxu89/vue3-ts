@@ -27,7 +27,7 @@ export default defineConfig({
     },
   },
   server: {
-    host: 'web.amh-group.com',
+    host: 'web.test.com',
     port: 6100,
     open: true,
     hot: true
