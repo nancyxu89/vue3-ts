@@ -1,5 +1,5 @@
 const BaseConfig: Config = {
-  host: '//boss.amh-group.com/',
+  host: '//test.com/',
   debug: false,
   develop: false
 }
